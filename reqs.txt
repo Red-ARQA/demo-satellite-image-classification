@@ -1,0 +1,7 @@
+pennylane
+torch
+torchvision
+scikit-learn
+matplotlib
+schedulefree
+seaborn
